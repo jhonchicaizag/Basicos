@@ -1,5 +1,5 @@
 # docker-compose para instalar una base de datos en MONGO DB
-# mongodb://root:admin@localhost:27017/    ==>   se usa para conectar con gestores (studio 3t, TablePlus) locales   
+# mongodb://root:admin@localhost:27017/    ==>   se usa para conectar con gestores (studio 3t, TablePlus) locales
 version: '3.1'
 
 services:
